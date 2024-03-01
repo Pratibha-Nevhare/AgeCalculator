@@ -1,5 +1,5 @@
 # AgeCalculator
-Age Calculator
+
 The Age Calculator is a simple web application developed using CSS, HTML, and JavaScript. It allows users to calculate their age based on their birth date and the current date.
 
 Technologies Used
